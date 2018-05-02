@@ -22,9 +22,9 @@ var TimHeight =  177;
 var TimAge = 7;
 var TimOverall = TimHeight + (5*TimAge);
 
-var AbsHeihgt = 175;
+var AbsHeight = 175;
 var AbsAge = 25;
-var AbsOverall = AbsHeights + (5*AbsAge);
+var AbsOverall = AbsHeight + (5*AbsAge);
 
 if(TimOverall > TomOverall && TimOverall > AbsOverall){
 	console.log("Tim Wins");
